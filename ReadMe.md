@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-GIF created with [QuickTime](https://imgur.com/a/84DT6Ri)
+GIF created with [QuickTime](https://i.imgur.com/SJSOlF7.gifv)
 
 ## Notes/Challenges that Occured
 
