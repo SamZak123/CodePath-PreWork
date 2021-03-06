@@ -24,17 +24,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 GIF created with [QuickTime](https://imgur.com/a/wZMM45M)
 
-## Notes
+## Notes/Challenges that Occured
 
--
--
--
+- Had difficulty at first navigating from settings page back to main screen
+- Plans to add more user friendly features
 
 ## License
 
